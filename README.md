@@ -1,0 +1,2 @@
+# Javascript
+Javascript practises
